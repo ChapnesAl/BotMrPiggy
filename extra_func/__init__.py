@@ -1,0 +1,1 @@
+from extra_func import info_about_assets

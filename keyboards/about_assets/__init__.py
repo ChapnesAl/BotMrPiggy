@@ -1,0 +1,1 @@
+from keyboards.about_assets import client_kb_assets
